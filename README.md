@@ -246,5 +246,5 @@ cd backend
    - Click **Register Visitor** to issue an entry pass.
    - Navigate to **Visitor Entry/Exit** and click **Log Exit** to record departure..
 
-Tanishq Agrawal 
-EN24CS3011060
+- Tanishq Agrawal EN24CS3011060
+- Tanishq Sharma EN24CS3011063
