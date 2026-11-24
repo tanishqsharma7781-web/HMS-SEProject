@@ -245,3 +245,6 @@ cd backend
    - View the active gate dashboard.
    - Click **Register Visitor** to issue an entry pass.
    - Navigate to **Visitor Entry/Exit** and click **Log Exit** to record departure..
+
+Tanishq Agrawal 
+EN24CS3011060
